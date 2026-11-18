@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="(https://tse3.mm.bing.net/th/id/OIP.NQWJlS-l8Mof3UkR503mcwHaEL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)" width="600" alt="My banner"/>
+<img src="https://tse3.mm.bing.net/th/id/OIP.NQWJlS-l8Mof3UkR503mcwHaEL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="600" alt="My banner"/>
 
 </div>
 

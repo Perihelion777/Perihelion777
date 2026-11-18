@@ -1,10 +1,10 @@
 <div align="center">
 
-# Heya! 👋 I'm Clarence!
+# Heya! 👋 I'm Clarence! :3
 
 ### 💻 IT Student | Aspiring Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Did'nt+you+see+the+news+today?;I+heard+they+said+it+looked+like+rain;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=But+I+falter+on+the+forethought;I+keep+on+running+like+a+chicken+with+It's+head+cut+off;Achromatic+aching+aeronaut;A+Birdbrain+baby+I+dont+know+when+I'm+supposed+to+stop" />
 
 </div>
 

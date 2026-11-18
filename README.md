@@ -26,14 +26,6 @@
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Perihelion777&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perihelion777&layout=compact&theme=tokyonight" />
-
 </div>
 
 ## 🌐 Connect With Me

@@ -1,10 +1,17 @@
 <div align="center">
 
+<img src="(https://tse3.mm.bing.net/th/id/OIP.NQWJlS-l8Mof3UkR503mcwHaEL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)" width="600" alt="My banner"/>
+
+</div>
+
+
+<div align="center">
+
 # Heya! 👋 I'm Clarence! :3
 
 ### 💻 IT Student | Aspiring Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=But+I+falter+on+the+forethought;I+keep+on+running+like+a+chicken+with+It's+head+cut+off;Achromatic+aching+aeronaut;A+Birdbrain+baby+I+dont+know+when+I'm+supposed+to+stop" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines" />
 
 </div>
 

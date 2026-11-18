@@ -1,7 +1,7 @@
 <div align="center">
-
-<img src="https://tse3.mm.bing.net/th/id/OIP.NQWJlS-l8Mof3UkR503mcwHaEL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="600" alt="My banner"/>
-
+  <div style="display: inline-block; padding: 4px; background: linear-gradient(90deg, #00FFFF, #8A2BE2); border-radius: 12px;">
+    <img src="https://th.bing.com/th/id/OIP.NQWJlS-l8Mof3UkR503mcwHaEL?w=296&h=180&c=7&r=0&o=7&pid=1.7&rm=3" width="600" alt="My banner" />
+  </div>
 </div>
 
 

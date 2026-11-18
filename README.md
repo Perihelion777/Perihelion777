@@ -4,7 +4,7 @@
 
 ### 💻 IT Student | Aspiring Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+something+new+every+day;Future+Software+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Did'nt+you+see+the+news+today?;I+heard+they+said+it+looked+like+rain;" />
 
 </div>
 
@@ -12,19 +12,17 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm an IT student.
-- 🌱 Currently learning programming.
+- 🎓 I'm an IT student at NU Clark.
+- 🌱 Currently learning intermediate programming.
 - 💡 Interested in software and web development.
-- 🔭 Exploring the world of technology.
-- ⚡ Fun fact: Every expert was once a beginner!
+- 🔭 Exploring the world of technology one lesson at a time.
+- ⚡ Fun fact: I like pizza!
 
 ## 🛠️ Technologies I'm Learning
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
-
-</div>
 
 </div>
 

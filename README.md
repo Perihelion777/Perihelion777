@@ -11,7 +11,8 @@
 
 ### 💻 IT Student | Aspiring Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Aspiring+Software+Developer;Learning+HTML,+CSS,+Java+and+C%2B%2B" />
 
 </div>
 

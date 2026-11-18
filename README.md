@@ -1,16 +1,51 @@
-Heya! 
+<div align="center">
 
-<!--
-**Perihelion777/Perihelion777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Heya! 👋 I'm Clarence!
 
-Here are some ideas to get you started:
+### 💻 IT Student | Aspiring Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+something+new+every+day;Future+Software+Developer" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 I'm an IT student.
+- 🌱 Currently learning programming.
+- 💡 Interested in software and web development.
+- 🔭 Exploring the world of technology.
+- ⚡ Fun fact: Every expert was once a beginner!
+
+## 🛠️ Technologies I'm Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Perihelion777&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perihelion777&layout=compact&theme=tokyonight" />
+
+</div>
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Perihelion777
+
+---
+
+<div align="center">
+
+### "Success may not come with rushing speed, but we shall return again and again."
+
+⭐ Thank ya for visitin' my profile!
+
+</div>

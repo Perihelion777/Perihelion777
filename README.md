@@ -12,7 +12,7 @@
 ### 💻 IT Student | Aspiring Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Curious+Software+Developer;Learning+HTML,+CSS,+Java+and+C%2B%2B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Curious+Software+Developer;There+is+no+antimemetics+division" />
 
 </div>
 
@@ -20,11 +20,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm an IT student at NU Clark.
-- 🌱 Currently learning intermediate programming.
-- 💡 Interested in software and web development.
-- 🔭 Exploring the world of technology one lesson at a time.
-- ⚡ Fun fact: I like pizza!
+-  I'm an IT student at NU Clark.
+-  Currently learning intermediate programming.
+-  Interested in software and web development.
+-  Exploring the world of technology one lesson at a time.
+-  Fun fact: I like pizza!
 
 ## 🛠️ Technologies I'm Learning
 
@@ -34,9 +34,9 @@
 
 </div>
 
-## 🌐 Connect With Me
+## 🌐 Lab Tasks and Shenanigans
 
-- GitHub: https://github.com/Perihelion777
+Lab Task 2: https://github.com/Perihelion777](https://github.com/Perihelion777/Perihelion777/blob/main/Lab%20Task%20Shenanigans/Lab%20Task%202.pdf)Ka
 
 ---
 

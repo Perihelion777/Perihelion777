@@ -36,7 +36,7 @@
 
 ## 🌐 Lab Tasks and Shenanigans
 
-Lab Task 2: (https://github.com/Perihelion777/Perihelion777/blob/main/Lab%20Task%20Shenanigans/Lab%20Task%202.pdf)
+[Lab Task 2:](https://github.com/Perihelion777/Perihelion777/blob/main/Lab%20Task%20Shenanigans/Lab%20Task%202.pdf)
 
 ---
 
